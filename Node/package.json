@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Julia",
-  "license": "ISC"
+  "license": "MIT",
+  "extensionDependencies": [
+    "katsute.code-background"
+  ]
 }
