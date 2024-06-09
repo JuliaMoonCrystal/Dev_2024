@@ -1,0 +1,14 @@
+{
+  "name": "jogo-mario",
+  "version": "1.0.0",
+  "description": "Primeiro projeto da formação node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jogo"
+  ],
+  "author": "Julia",
+  "license": "MIT"
+}
