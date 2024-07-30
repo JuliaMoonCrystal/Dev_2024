@@ -7,9 +7,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "node"
-  ],
-  "author": "Julia F.",
-  "license": "MIT"
+  "author": "Julia",
+  "license": "MIT",
+  "extensionDependencies": [
+    "katsute.code-background"
+  ]
 }
