@@ -28,3 +28,10 @@ for letra in menu:
 print()
 
 print("-".join(menu))    
+
+nome="Juliana"
+idade =28
+profissao= "Programadora"
+linguagem="Python"
+
+print("Olá, me cham %s. Eu tenho %d anos de idade. Trabalho com %s. E uso a linguagem %s."% (nome,idade,profissao,linguagem))
