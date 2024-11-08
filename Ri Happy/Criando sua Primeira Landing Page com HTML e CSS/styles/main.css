@@ -1,0 +1,21 @@
+*{
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
+
+.logo {
+    width: 150px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;  
+    margin-left:240px;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
+
+.banner{
+    justify-content: center !important;
+    display: flex;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
